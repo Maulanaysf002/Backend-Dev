@@ -1,0 +1,3 @@
+- dalam 1 folder golang hanya boleh ada 1 package.
+- jika ingin mengeksport func dari package lain gunakan kapital didepannya, misal Hello(){}.
+- go mod init "nama module" adalah cara inisiasi modul yang akan digunakan untuk import package.

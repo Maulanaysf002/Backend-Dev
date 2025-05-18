@@ -1,5 +1,7 @@
 package basic
 
-func Basic_sintax() string {
-	return "ini basic sintax"
+import "fmt"
+
+func Basic_sintax() {
+	fmt.Println("ini adalah basic sintax")
 }

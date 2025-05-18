@@ -8,5 +8,5 @@ import (
 func main() {
 
 	fmt.Println("ini bagian main")
-	fmt.Println(basic.Basic_sintax())
+	basic.Basic_sintax()
 }

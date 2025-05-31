@@ -37,3 +37,7 @@ Dalam hal ini, hasil compile akan disimpan sebagai file bernama bin.
 
 main.go
 → File sumber Go yang akan di-compile.
+
+# chekpoint
+
+https://dasarpemrogramangolang.novalagung.com/A-operator.html (operator) 🚩
